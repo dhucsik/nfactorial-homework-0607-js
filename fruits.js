@@ -1,0 +1,1 @@
+export default fruits = ["apple", "orange", "banana"]
